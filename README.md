@@ -11,6 +11,7 @@ Agent Skills are folders of instructions, scripts, and resources that agents can
 <!-- SKILLS:START -->
 | Skill | Description | Download |
 |-------|-------------|----------|
+| [csv-data-analyst](skills/csv-data-analyst/) | Analyze CSV files, generate summary statistics, and create visualizations using Python and pandas.... | [Download](https://skills.224ai.au/csv-data-analyst.skill) |
 | [form-attribution](skills/form-attribution/) | Implement the Form Attribution library on websites to capture UTM parameters, ad click IDs,... | [Download](https://skills.224ai.au/form-attribution.skill) |
 | [seo-content-writer](skills/seo-content-writer/) | Generate SEO-optimized content for traditional search engines, AI answer engines, and generative AI... | [Download](https://skills.224ai.au/seo-content-writer.skill) |
 <!-- SKILLS:END -->
