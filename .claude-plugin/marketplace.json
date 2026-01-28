@@ -1,0 +1,14 @@
+{
+  "name": "224-agent-skills",
+  "owner": {
+    "name": "224 Industries",
+    "url": "https://224industries.com.au"
+  },
+  "plugins": [
+    {
+      "name": "224-agent-skills",
+      "source": "./",
+      "description": "A collection of agent skills for marketing, web development, automation workflows, and more."
+    }
+  ]
+}

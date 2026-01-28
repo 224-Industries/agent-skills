@@ -1,0 +1,21 @@
+{
+  "name": "224-agent-skills",
+  "description": "A collection of agent skills for marketing, web development, automation workflows, and more.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ben Sabic",
+    "email": "ben@224industries.com.au"
+  },
+  "homepage": "https://224industries.com.au",
+  "repository": "https://github.com/224-Industries/agent-skills",
+  "license": "MIT",
+  "keywords": [
+    "marketing",
+    "attribution",
+    "webflow",
+    "forms",
+    "utm",
+    "analytics",
+    "web-development"
+  ]
+}
