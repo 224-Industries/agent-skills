@@ -1,6 +1,6 @@
 # 224 Agent Skills
 
-A collection of Agent Skills for marketing, web development, automation workflows, and more.
+A collection of Agent Skills for marketing, web development, automation workflows, and more that can be used with your favourite AI tool.
 
 ## What are Agent Skills?
 
@@ -18,7 +18,7 @@ Agent Skills are folders of instructions, scripts, and resources that agents can
 
 ## Installation
 
-### Option 1: skills (Recommended)
+### Option 1: skills
 
 Use the [Vercel Skills CLI](https://skills.sh/) to install skills directly:
 
